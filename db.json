@@ -1,9 +1,13 @@
-{ getCustomerResponse:
-   { customer:
-      { nino: 'AA000301A',
+{ 
+   getCustomerResponse: { 
+      customer: { 
+        nino: 'AA000301A',
         firstName: 'Chris',
         lastName: 'Chase',
         dob: '1987-09-17Z',
         amount: '£737.80',
-        paymentDate: '2018-02-24Z' } } }
+        paymentDate: '2018-02-24Z' 
+      } 
+   } 
+}
 
