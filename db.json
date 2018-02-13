@@ -3,20 +3,29 @@
     {
       "id": "594cdbe3",
       "timestamp": "23/01/2018 16:41",
-      "source": "DWP",
-      "amount": "£100"
+      "fullname": "Bob Drummond",
+      "accountnumber": "40186345",
+      "sortcode": "114727",
+      "amount": "£150",
+      "benefittype": "JSA"
     },
     {
       "id": "643frbe2",
       "timestamp": "21/01/2018 12:01",
-      "source": "DWP",
-      "amount": "£2500"
+      "fullname": "Yasmin Bui",
+      "accountnumber": "57836475",
+      "sortcode": "173769",
+      "amount": "£200",
+      "benefittype": "PIP"
     },
     {
       "id": "fd5cdbe5",
       "timestamp": "19/01/2018 10:50",
-      "source": "DWP",
-      "amount": "£80"
+      "fullname": "David Lively",
+      "accountnumber": "20957632",
+      "sortcode": "217654",
+      "amount": "£50",
+      "benefittype": "ESA"
     }
   ]
 }
