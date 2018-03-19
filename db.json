@@ -1,94 +1,17 @@
 {
-  "transfers": [
-    {
-      "id": "594cdbe3",
-      "timestamp": "23/01/2018 16:41",
-      "fullname": "Bob Drummond",
-      "accountnumber": "40186345",
-      "sortcode": "114727",
-      "amount": "£150",
-      "benefittype": "JSA"
-    },
-    {
-      "id": "643frbe2",
-      "timestamp": "21/01/2018 12:01",
-      "fullname": "Yasmin Bui",
-      "accountnumber": "57836475",
-      "sortcode": "173769",
-      "amount": "£200",
-      "benefittype": "PIP"
-    },
-    {
-      "id": "fd5cdbe5",
-      "timestamp": "19/01/2018 10:50",
-      "fullname": "David Lively",
-      "accountnumber": "20957632",
-      "sortcode": "217654",
-      "amount": "£50",
-      "benefittype": "ESA"
-    },
-    {
-      "id": "735lobe4",
-      "timestamp": "15/01/2018 14:30",
-      "fullname": "Kevin Weir",
-      "accountnumber": "37465847",
-      "sortcode": "654387",
-      "amount": "£2500",
-      "benefittype": "UC"
-    },
-    {
-      "id": "t567hfv4",
-      "timestamp": "10/01/2018 18:30",
-      "fullname": "Anna Holmes",
-      "accountnumber": "28673532",
-      "sortcode": "192832",
-      "amount": "£30",
-      "benefittype": "ESA"
-    },
-    {
-      "id": "h397yuv2",
-      "timestamp": "10/01/2018 16:00",
-      "fullname": "Ali Malik",
-      "accountnumber": "85357654",
-      "sortcode": "284673",
-      "amount": "£200",
-      "benefittype": "JSA"
-    },
-    {
-      "id": "hy743hd2",
-      "timestamp": "08/01/2018 12:00",
-      "fullname": "Leela Hadid",
-      "accountnumber": "83947563",
-      "sortcode": "107643",
-      "amount": "£50",
-      "benefittype": "ESA"
-    },
-    {
-      "id": "f764yth3",
-      "timestamp": "06/01/2018 9:00",
-      "fullname": "William Smith",
-      "accountnumber": "56483756",
-      "sortcode": "107564",
-      "amount": "£100",
-      "benefittype": "JSA"
-    },
-    {
-      "id": "h376tr8y",
-      "timestamp": "03/01/2018 15:30",
-      "fullname": "Lucy Richard",
-      "accountnumber": "76372846",
-      "sortcode": "102973",
-      "amount": "£50",
-      "benefittype": "PIP"
-    },
-    {
-      "id": "fd74yt69",
-      "timestamp": "01/01/2018 13:30",
-      "fullname": "Khalid Yara",
-      "accountnumber": "65738754",
-      "sortcode": "184857",
-      "amount": "£2000",
-      "benefittype": "UC"
-    }
-  ]
+    "transfers": [{
+           "amount": "10",
+           "issueDate": "09/03/2018 21:09:40",
+           "payer": "DWP",
+           "transactionId": "bc0aa54241ebc088878c7d78911a6f6e53389bcbe3ba04f470ba8cce3144383a",
+           "isBulk": false
+       },
+       {
+           "amount": "1000",
+           "issueDate": "09/03/2018 13:07:36",
+           "payer": "DWP",
+           "transactionId": "1a3d65a7fadaebe7ac652b0648ccd4ef334a5bc25efc832d3710e9c9ea8430fd",
+           "isBulk": true
+       }]
 }
+
