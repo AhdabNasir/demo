@@ -12,6 +12,20 @@
            "payer": "DWP",
            "transactionId": "1a3d65a7fadaebe7ac652b0648ccd4ef334a5bc25efc832d3710e9c9ea8430fd",
            "isBulk": true
+       },
+       {
+           "amount": "60",
+           "issueDate": "01/03/2018 13:07:36",
+           "payer": "Bank A",
+           "transactionId": "1a3d65a7fadaebe7ac652b0648ccd4ef334a5bc25efc832d3710e9c9ea8430fd",
+           "isBulk": false
+       },
+       {
+           "amount": "500",
+           "issueDate": "12/08/2018 17:07:36",
+           "payer": "DWP",
+           "transactionId": "1a3d65a733daebe7ac652b0648ccd4ef334a5bc25efc832d3710e9c9ea8430fd",
+           "isBulk": true
        }]
 }
 
